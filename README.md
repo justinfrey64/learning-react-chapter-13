@@ -6,3 +6,4 @@ In this chapter, I learned how to setup a React app using npm. I also learned th
 
 <h3>Links to Other Chapters</h3>
 <a href="https://github.com/justinfrey64/learning-react-chapters-1-through-12">Chapters 1-12</a>
+<a href="https://github.com/justinfrey64/learning-react-chapter-14">Chapter 14</a>
