@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/learning-react-chapter-13/static/css/main.18bbf6a5.chunk.css",
+    "main.js": "/learning-react-chapter-13/static/js/main.e9f73c0a.chunk.js",
+    "main.js.map": "/learning-react-chapter-13/static/js/main.e9f73c0a.chunk.js.map",
+    "runtime~main.js": "/learning-react-chapter-13/static/js/runtime~main.c4c21fb8.js",
+    "runtime~main.js.map": "/learning-react-chapter-13/static/js/runtime~main.c4c21fb8.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/learning-react-chapter-13/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/learning-react-chapter-13/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/learning-react-chapter-13/index.html",
+    "precache-manifest.7d59fe8f0ea34c714124116e1837e75b.js": "/learning-react-chapter-13/precache-manifest.7d59fe8f0ea34c714124116e1837e75b.js",
+    "service-worker.js": "/learning-react-chapter-13/service-worker.js",
+    "static/css/main.18bbf6a5.chunk.css.map": "/learning-react-chapter-13/static/css/main.18bbf6a5.chunk.css.map"
+  }
+}
